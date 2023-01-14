@@ -1,0 +1,32 @@
+.banner{
+    border: 2px solid black;
+    text-align: center;
+    background-color:blue;
+    color: white;
+}
+
+nav{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: white;
+    height: 35px;
+    padding: 6px 8px;
+    font-size:x-large
+}
+
+.image{
+    background-color:aliceblue;
+}
+
+button{
+    background-color:Blue;
+    border: 1px solid Red;
+    border-radius: 1em;
+    color:White;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: bold;
+    font-size: 20px;
+    margin: 4px 2px;
+}
